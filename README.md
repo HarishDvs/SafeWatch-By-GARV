@@ -1,7 +1,3 @@
-Here's a stylized version of the README you can copy with improved formatting:
-
----
-
 # **Women Safety Analytics using ML (DeepFace)**
 
 ## **Project Overview**
@@ -76,16 +72,6 @@ Alerts are generated based on predefined suspicious activity scenarios:
 
 ---
 
-## **Installation**
-
-### **Clone the Repository**:
-
-```bash
-git clone https://github.com/your-repo/women-safety-analytics.git
-cd women-safety-analytics
-```
-
-### **Install Dependencies**:
 
 ```bash
 pip install -r requirements.txt
@@ -151,4 +137,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Let me know if you'd like to make any adjustments to this or need more customization!
+
