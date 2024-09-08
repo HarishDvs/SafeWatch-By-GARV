@@ -1,0 +1,11 @@
+deepface==0.0.75
+opencv-python==4.5.3.56
+mediapipe==0.8.9
+numpy==1.21.2
+tensorflow==2.5.0  # Required by DeepFace
+keras==2.5.0       # Required by DeepFace
+matplotlib==3.4.2  # For visualizing results
+pandas==1.3.3      # Optional, for data handling
+scipy==1.7.1       # Required by some models in DeepFace
+Pillow==8.3.1      # For image handling
+gtts==2.2.3        # For voice synthesis (if used in the project) 
