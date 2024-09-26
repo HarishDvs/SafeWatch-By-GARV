@@ -1,4 +1,4 @@
-# **Women Safety Analytics using ML (DeepFace)**
+# **SafeWatch - Women Safety Analytics using ML (DeepFace)**
 
 ## **Project Overview**
 This project is designed to enhance women's safety using advanced Machine Learning (ML) models for gender bias detection. It integrates **facial recognition**, **gesture recognition**, and **audio analysis** to monitor environments in real-time and proactively alert in cases of potential danger or abnormal gender ratios. By analyzing video feeds frame-by-frame and detecting certain gestures like SOS signals, this system aims to provide early warnings and help prevent unsafe situations.
